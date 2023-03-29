@@ -37,6 +37,12 @@
 
 ---
 
+## Experiência Profissional:
+
+**Cargo**, [Empresa], [Data de início] - [Data de término]
+- [Responsabilidade]
+- [Responsabilidade]
+- [Responsabilidade]
 
 
 
