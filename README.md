@@ -25,13 +25,15 @@ E-mail: teste@unimar.com.br
 
 **Data de conclusão:** 31/12/2022
 
+---
+
 **Instituição:** Universidade Unimar
 
 **Curso:** Análise e desenvolvimento de sistemas
 
 **Grau acadêmico:** Cursando primeiro ano
 
-**Data de conclusão:**31/12/2025
+**Data de conclusão:** 31/12/2025
 
 ---
 
