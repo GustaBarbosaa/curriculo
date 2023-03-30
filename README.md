@@ -5,6 +5,8 @@
 
 ## Dados Pessoais:
 
+**Nascimento:** 05/08/2004
+
 **Idade:** 18 anos
 
 **CPF:** 291.291.291-45
@@ -39,10 +41,12 @@
 
 ## Experiência Profissional:
 
-**Cargo**, [Empresa], [Data de início] - [Data de término]
-- [Responsabilidade]
-- [Responsabilidade]
-- [Responsabilidade]
+**Cargo** - Assitente de planejamento - PASCHOALOTTO 
+
+**Inicio** - 07/10/2021
+
+**Término** - Atualmente no mesmo serviço
+
 
 
 
